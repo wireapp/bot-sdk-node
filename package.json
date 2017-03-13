@@ -2,7 +2,7 @@
   "name": "wire-bot-sdk-node",
   "version": "0.0.1",
   "description": "Node.js module for creating Wire bots",
-  "main": "index.js",
+  "main": "lib/service.js",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -28,8 +28,6 @@
     "base64-arraybuffer": "^0.1.5",
     "cryptobox": "git+https://github.com/damirn/cryptobox.js.git",
     "follow-redirects": "^1.2.1",
-    "libsodium": "^0.4.8",
-    "libsodium-wrappers": "^0.4.8",
     "protocol-buffers": "^3.2.1",
     "uuid": "^3.0.1",
     "wire-webapp-proteus": "^3.0.3"
