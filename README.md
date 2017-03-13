@@ -43,7 +43,8 @@ Wire bot API is currently in alpha.
 ### Installation
 
 ```bash
-npm install --save wire-bot-node
+git clone https://github.com/wireapp/bot-sdk-node/
+npm install bot-sdk-node
 ```
 
 ### Usage
@@ -59,7 +60,7 @@ openssl rsa -in server.key -pubout -out pubkey.pem
 
 Then proceed to create your first bot (take a look at example/echo_text_bot.js):
 ```javascript
-const service = require('wire-bot-node');
+const service = require('wire-bot-sdk-node');
 
 service.createService(options, (bot) => {
   // add listeners
