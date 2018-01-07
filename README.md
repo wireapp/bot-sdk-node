@@ -22,7 +22,7 @@ Wire bot API is currently in alpha.
 
 ### Bot registration and creation
 
-* Go to https://wire.com/b/devbot (not supported on mobile browsers, or Safari yet) and log in with your Wire credentials - "DevBot" is a bot to set up your developer account and create your own bots.
+* Go to [Don](https://app.wire.com/?bot_name=don&bot_provider=d39b462f-7e60-4d88-82e1-44d632f94901&bot_service=7a7e5417-0ea3-4608-a5ff-cb809b93f65a) (not supported on mobile browsers, or Safari yet) and log in with your Wire credentials - "DevBot" is a bot to set up your developer account and create your own bots.
 
 * Register to the bot service:
   - Email - This is a separate developer account, you can reuse the same email (if you've added an email to your Wire account)
