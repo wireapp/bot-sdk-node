@@ -8,7 +8,7 @@ Wire bot API is currently in alpha.
 
 ### Bot registration and creation
 
-* Run `manage.sh` from a terminal and reister as Wire Service Provider
+* Run `manage.sh` from a terminal and register as Wire Service Provider
 
 * Register as Wire Service Provider:
   - Email - This is a separate developer account, you can reuse the same email (if you've added an email to your Wire account)
